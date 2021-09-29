@@ -1,0 +1,209 @@
+Solicitar URL: https://shekinashop.com/wp-admin/post.php
+
+_wpnonce: c94fdf6b1c
+_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
+user_ID: 1
+action: editpost
+originalaction: editpost
+post_author: 1
+post_type: product
+original_post_status: publish
+referredby: https://shekinashop.com/wp-admin/post.php?post=14743&action=edit
+_wp_original_http_referer: https://shekinashop.com/wp-admin/post.php?post=14743&action=edit
+post_ID: 14743
+meta-box-order-nonce: db11ecc1c4
+closedpostboxesnonce: 89ac3f0b7f
+original_post_title: Cafetera Prensa Francesa 350ml
+post_title: Cafetera Prensa Francesa 350ml
+samplepermalinknonce: 8571ca4e29
+_elementor_edit_mode_nonce: 46b3f4d55a
+_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
+_elementor_post_mode: 
+content: Cafetera fabricada en vidrio con tapa y asa en polipropileno. Incluye colador en acero inoxidable. Cafetera formada por un cilindro grande de vidrio refractario con un filtro plano sujeto a una manija en la tapa. Esto permite poner el café molido al fondo, agregar el agua caliente y poner el filtro encima presionando hacia abajo. Su función es permitir la fusión entre el agua y el café y lograr que los aceites naturales lleguen hasta la taza.
+wp-preview: 
+hidden_post_status: publish
+post_status: publish
+hidden_post_password: 
+hidden_post_visibility: public
+visibility: public
+post_password: 
+jj: 16
+mm: 09
+aa: 2021
+hh: 04
+mn: 28
+ss: 03
+hidden_mm: 09
+cur_mm: 09
+hidden_jj: 16
+cur_jj: 29
+hidden_aa: 2021
+cur_aa: 2021
+hidden_hh: 04
+cur_hh: 02
+hidden_mn: 28
+cur_mn: 40
+current_visibility: visible
+current_featured: no
+_visibility: visible
+original_publish: Actualizar
+save: Actualizar
+tax_input[product_cat][]: 0
+tax_input[product_cat][]: 698
+newproduct_cat: Nombre de la nueva categoría
+newproduct_cat_parent: -1
+_ajax_nonce-add-product_cat: 5b558dd60b
+tax_input[product_tag]: COMERCIALIZADORA FACIHOGAR SAS
+newtag[product_tag]: 
+page_template: default
+cmplz_cookiebanner_hide_nonce: 1149e34d42
+_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
+gla_channel_visibility_visibility: sync-and-show
+joinchat_nonce: 1208faf642
+_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
+joinchat_telephone: 
+joinchat_message: 
+joinchat_message_send: 
+joinchat_view: 
+is_product_page: 1
+_thumbnail_id: -1
+knawatfibu_url: https://elenas-media.s3.amazonaws.com/10041092/LAMPARALUNA.jpg
+knawatfibu_alt: 
+knawatfibu_wcgallary[3][url]: https://elenas-media.s3.amazonaws.com/10041092/LAMPARALUNA.jpg
+knawatfibu_wcgallary[5][url]: https://elenas-media.s3.amazonaws.com/10041092/LAMPARALUNA.jpg
+knawatfibu_wcgallary[6][url]: https://elenas-media.s3.amazonaws.com/10041092/LAMPARALUNA.jpg
+knawatfibu_wcgallary[7][url]: 
+woocommerce_meta_nonce: fce375d303
+_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
+product_image_gallery: 
+product_360_image_gallery: 
+product-type: simple
+woocommerce_meta_nonce: fce375d303
+_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
+_product_url: 
+_button_text: 
+_regular_price: 26799,99
+_sale_price: 
+_sale_price_dates_from: 
+_sale_price_dates_to: 
+_download_limit: 
+_download_expiry: 
+_sku: CO-10045477
+_manage_stock: yes
+_stock: 0
+_original_stock: 0
+_backorders: no
+_low_stock_amount: 
+_stock_status: outofstock
+woodmart_total_stock_quantity: 
+sp_wc_barcode_type_field: none
+sp_wc_barcode_field: 
+_weight: 
+_length: 
+_width: 
+_height: 
+product_shipping_class: -1
+_shipping_custom_price_product_smp[14743]: 
+attribute_taxonomy: 
+_purchase_note: 
+menu_order: 0
+comment_status: open
+_wa_order_phone_number: Lucero
+_wa_order_button_text: 
+_wa_order_custom_message: 
+gla_attributes[gtin]: 
+gla_attributes[mpn]: 
+gla_attributes[brand]: 
+gla_attributes[condition]: 
+gla_attributes[gender]: 
+gla_attributes[size]: 
+gla_attributes[sizeSystem]: 
+gla_attributes[sizeType]: 
+gla_attributes[color]: 
+gla_attributes[material]: 
+gla_attributes[pattern]: 
+gla_attributes[ageGroup]: 
+gla_attributes[multipack]: 
+gla_attributes[isBundle]: 
+gla_attributes[adult]: 
+wc_facebook_sync_mode: sync_and_show
+fb_product_description: 
+fb_product_image_source: product
+fb_product_image: 
+fb_product_price: 
+fb_remove_from_sync: 
+wc_facebook_can_show_enhanced_catalog_attributes_id: true
+wc_facebook_google_product_category_id: 
+meta[267247][key]: cmplz_hide_cookiebanner
+_ajax_nonce: 5c713ee482
+meta[267247][value]: 
+meta[267240][key]: fb_product_description
+_ajax_nonce: 5c713ee482
+meta[267240][value]: 
+meta[267243][key]: fb_product_group_id
+_ajax_nonce: 5c713ee482
+meta[267243][value]: 6255396714501300
+meta[267239][key]: fb_visibility
+_ajax_nonce: 5c713ee482
+meta[267239][value]: yes
+meta[267236][key]: sp_wc_barcode_field
+_ajax_nonce: 5c713ee482
+meta[267236][value]: 
+meta[267235][key]: sp_wc_barcode_type_field
+_ajax_nonce: 5c713ee482
+meta[267235][value]: none
+meta[266115][key]: total_sales
+_ajax_nonce: 5c713ee482
+meta[266115][value]: 0
+meta[267237][key]: woodmart_total_stock_quantity
+_ajax_nonce: 5c713ee482
+meta[267237][value]: 
+metakeyselect: #NONE#
+metakeyinput: 
+metavalue: 
+_ajax_nonce-add-meta: 67189e306f
+post_name: cafetera-prensa-francesa-350ml
+excerpt: Modelo LC 12872
+Tipo Cafeteras
+Capacidad (lt) 350 ml
+Material Vidrio
+add_comment_nonce: 78b5fcc4d5
+_ajax_fetch_list_nonce: 3003f61dd0
+_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
+seopress_cpt_nonce: 3d101ecff0
+_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
+seopress_titles_title: 
+seopress_titles_desc: 
+seopress_robots_canonical: 
+seopress_robots_primary_cat: none
+seopress_robots_breadcrumbs: 
+seopress_social_fb_title: 
+seopress_social_fb_desc: 
+seopress_social_fb_img: 
+seopress_social_twitter_title: 
+seopress_social_twitter_desc: 
+seopress_social_twitter_img: 
+seopress_redirections_type: 301
+seopress_redirections_value: 
+seo_tabs: ["title-tab","social-tab","advanced-tab","redirect-tab"]
+seopress_content_analysis_nonce: 3d101ecff0
+_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
+seopress_analysis_target_kw: 
+seopress_google_suggest_kw: 
+wd-metabox-nonce_class-metaboxphp: c77b3efc1a
+_woodmart_whb_header: none
+_woodmart_product_design: inherit
+_woodmart_single_product_style: inherit
+_woodmart_thums_position: inherit
+_woodmart_product-background: 
+_woodmart_main_layout: default
+_woodmart_sidebar_width: default
+_woodmart_custom_sidebar: none
+_woodmart_extra_content: 
+_woodmart_extra_position: after
+_woodmart_product_custom_tab_title: 
+_woodmart_product_custom_tab_content: 
+_woodmart_new_label_date: 
+_woodmart_swatches_attribute: 
+_woodmart_product_video: 
+_woodmart_product_hashtag: 

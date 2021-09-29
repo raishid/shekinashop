@@ -4,8 +4,10 @@ from modules import variables_data as var
 
 def main():
     wp = public_wp.SkPublic(var.domain)
-    datos_csv = list()
-    print(wp.s.headers)
+    datos = wp.readData('shekina.json')
+    for product in datos:
+        wp.PublicProduct(product)
+        exit()
 
 
 if __name__ == '__main__':
