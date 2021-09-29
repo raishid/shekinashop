@@ -1,209 +1,173 @@
-Solicitar URL: https://shekinashop.com/wp-admin/post.php
-
-_wpnonce: c94fdf6b1c
-_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
-user_ID: 1
+_wpnonce: c4213896ff
+_wp_http_referer: /wp-admin/post.php?post=15090&action=edit
+user_ID: 2
 action: editpost
 originalaction: editpost
-post_author: 1
+post_author: 2
 post_type: product
-original_post_status: publish
-referredby: https://shekinashop.com/wp-admin/post.php?post=14743&action=edit
-_wp_original_http_referer: https://shekinashop.com/wp-admin/post.php?post=14743&action=edit
-post_ID: 14743
-meta-box-order-nonce: db11ecc1c4
-closedpostboxesnonce: 89ac3f0b7f
-original_post_title: Cafetera Prensa Francesa 350ml
-post_title: Cafetera Prensa Francesa 350ml
-samplepermalinknonce: 8571ca4e29
-_elementor_edit_mode_nonce: 46b3f4d55a
-_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
-_elementor_post_mode: 
-content: Cafetera fabricada en vidrio con tapa y asa en polipropileno. Incluye colador en acero inoxidable. Cafetera formada por un cilindro grande de vidrio refractario con un filtro plano sujeto a una manija en la tapa. Esto permite poner el café molido al fondo, agregar el agua caliente y poner el filtro encima presionando hacia abajo. Su función es permitir la fusión entre el agua y el café y lograr que los aceites naturales lleguen hasta la taza.
-wp-preview: 
-hidden_post_status: publish
-post_status: publish
-hidden_post_password: 
+original_post_status: auto-draft
+referredby:
+_wp_original_http_referer:
+auto_draft:
+post_ID: 15090
+meta-box-order-nonce: 5c52c66ed5
+closedpostboxesnonce: 878669b1b8
+original_post_title:
+post_title: Lampara Luna Y Estrellas Con Proyección Laser Giratoria
+samplepermalinknonce: 2d7b8b12e9
+_elementor_edit_mode_nonce: 9ae4405d43
+_wp_http_referer: /wp-admin/post.php?post=15090&action=edit
+_elementor_post_mode:
+content: <pre>DEJAR COLOR EN LOS COMENTARIOS, AZUL, ROSADA , Y MORADA DISPONIBLES\n\n \n\n- Luces nocturnas inteligentes y coloridas que inspiran la imaginación de los niños.\n- Con un botón se puede programar el color con que lucirá la galaxia o hacer una combinación de colores para darle un efecto más realista.\n- Rotación de 360 grados, proporcionando un cielo nocturno que tu niño disfrutará.\n- Un regalo sorprendente para los niños.\n- Crea un ambiente romántico para las parejas.\n- Es perfecto para que los niños duerman fácilmente gracias a sus relajantes luces.\n- Se puede utilizar como lámpara de proyección o una luz nocturna con solo quitarle la cúpula de proyección.</pre>
+wp-preview:
+hidden_post_status: draft
+post_status: draft
+hidden_post_password:
 hidden_post_visibility: public
 visibility: public
-post_password: 
-jj: 16
+post_password:
+jj: 29
 mm: 09
 aa: 2021
-hh: 04
-mn: 28
-ss: 03
+hh: 20
+mn: 20
+ss: 44
 hidden_mm: 09
 cur_mm: 09
-hidden_jj: 16
+hidden_jj: 29
 cur_jj: 29
 hidden_aa: 2021
 cur_aa: 2021
-hidden_hh: 04
-cur_hh: 02
-hidden_mn: 28
-cur_mn: 40
+hidden_hh: 20
+cur_hh: 20
+hidden_mn: 20
+cur_mn: 22
 current_visibility: visible
 current_featured: no
 _visibility: visible
-original_publish: Actualizar
-save: Actualizar
+original_publish: Publicar
+publish: Publicar
 tax_input[product_cat][]: 0
-tax_input[product_cat][]: 698
+tax_input[product_cat][]: 783
 newproduct_cat: Nombre de la nueva categoría
 newproduct_cat_parent: -1
-_ajax_nonce-add-product_cat: 5b558dd60b
-tax_input[product_tag]: COMERCIALIZADORA FACIHOGAR SAS
-newtag[product_tag]: 
+_ajax_nonce-add-product_cat: d0e248dcc3
+tax_input[product_tag]: CARMEN ISNELI CHAVARRIA VILLA
+newtag[product_tag]:
 page_template: default
-cmplz_cookiebanner_hide_nonce: 1149e34d42
-_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
 gla_channel_visibility_visibility: sync-and-show
-joinchat_nonce: 1208faf642
-_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
-joinchat_telephone: 
-joinchat_message: 
-joinchat_message_send: 
-joinchat_view: 
-is_product_page: 1
+joinchat_nonce: 1b675b176d
+_wp_http_referer: /wp-admin/post.php?post=15090&action=edit
+joinchat_telephone:
+joinchat_message:
+joinchat_message_send:
+joinchat_view:
 _thumbnail_id: -1
 knawatfibu_url: https://elenas-media.s3.amazonaws.com/10041092/LAMPARALUNA.jpg
-knawatfibu_alt: 
-knawatfibu_wcgallary[3][url]: https://elenas-media.s3.amazonaws.com/10041092/LAMPARALUNA.jpg
-knawatfibu_wcgallary[5][url]: https://elenas-media.s3.amazonaws.com/10041092/LAMPARALUNA.jpg
-knawatfibu_wcgallary[6][url]: https://elenas-media.s3.amazonaws.com/10041092/LAMPARALUNA.jpg
-knawatfibu_wcgallary[7][url]: 
-woocommerce_meta_nonce: fce375d303
-_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
-product_image_gallery: 
-product_360_image_gallery: 
+knawatfibu_alt:
+knawatfibu_wcgallary[1][url]: https://elenas-media.s3.amazonaws.com/10041092/lamaraestrella4.jpg
+knawatfibu_wcgallary[3][url]: https://elenas-media.s3.amazonaws.com/10041092/lamaraestrella1.jpg
+knawatfibu_wcgallary[4][url]:
+woocommerce_meta_nonce: ed2052bce4
+_wp_http_referer: /wp-admin/post.php?post=15090&action=edit
+product_image_gallery:
+product_360_image_gallery:
 product-type: simple
-woocommerce_meta_nonce: fce375d303
-_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
-_product_url: 
-_button_text: 
-_regular_price: 26799,99
-_sale_price: 
-_sale_price_dates_from: 
-_sale_price_dates_to: 
-_download_limit: 
-_download_expiry: 
-_sku: CO-10045477
+woocommerce_meta_nonce: ed2052bce4
+_wp_http_referer: /wp-admin/post.php?post=15090&action=edit
+_product_url:
+_button_text:
+_regular_price: 33000
+_sale_price:
+_sale_price_dates_from:
+_sale_price_dates_to:
+_download_limit:
+_download_expiry:
+_sku: CO-10041092
 _manage_stock: yes
-_stock: 0
+_stock: 918
 _original_stock: 0
 _backorders: no
-_low_stock_amount: 
-_stock_status: outofstock
-woodmart_total_stock_quantity: 
+_low_stock_amount:
+_stock_status: instock
+woodmart_total_stock_quantity:
 sp_wc_barcode_type_field: none
-sp_wc_barcode_field: 
-_weight: 
-_length: 
-_width: 
-_height: 
+sp_wc_barcode_field:
+_weight:
+_length:
+_width:
+_height:
 product_shipping_class: -1
-_shipping_custom_price_product_smp[14743]: 
-attribute_taxonomy: 
-_purchase_note: 
+_shipping_custom_price_product_smp[15090]:
+attribute_taxonomy:
+_purchase_note:
 menu_order: 0
 comment_status: open
 _wa_order_phone_number: Lucero
-_wa_order_button_text: 
-_wa_order_custom_message: 
-gla_attributes[gtin]: 
-gla_attributes[mpn]: 
-gla_attributes[brand]: 
-gla_attributes[condition]: 
-gla_attributes[gender]: 
-gla_attributes[size]: 
-gla_attributes[sizeSystem]: 
-gla_attributes[sizeType]: 
-gla_attributes[color]: 
-gla_attributes[material]: 
-gla_attributes[pattern]: 
-gla_attributes[ageGroup]: 
-gla_attributes[multipack]: 
-gla_attributes[isBundle]: 
-gla_attributes[adult]: 
+_wa_order_button_text:
+_wa_order_custom_message:
+gla_attributes[gtin]:
+gla_attributes[mpn]:
+gla_attributes[brand]:
+gla_attributes[condition]:
+gla_attributes[gender]:
+gla_attributes[size]:
+gla_attributes[sizeSystem]:
+gla_attributes[sizeType]:
+gla_attributes[color]:
+gla_attributes[material]:
+gla_attributes[pattern]:
+gla_attributes[ageGroup]:
+gla_attributes[multipack]:
+gla_attributes[isBundle]:
+gla_attributes[adult]:
 wc_facebook_sync_mode: sync_and_show
-fb_product_description: 
+fb_product_description:
 fb_product_image_source: product
-fb_product_image: 
-fb_product_price: 
-fb_remove_from_sync: 
+fb_product_image:
+fb_product_price:
+fb_remove_from_sync:
 wc_facebook_can_show_enhanced_catalog_attributes_id: true
-wc_facebook_google_product_category_id: 
-meta[267247][key]: cmplz_hide_cookiebanner
-_ajax_nonce: 5c713ee482
-meta[267247][value]: 
-meta[267240][key]: fb_product_description
-_ajax_nonce: 5c713ee482
-meta[267240][value]: 
-meta[267243][key]: fb_product_group_id
-_ajax_nonce: 5c713ee482
-meta[267243][value]: 6255396714501300
-meta[267239][key]: fb_visibility
-_ajax_nonce: 5c713ee482
-meta[267239][value]: yes
-meta[267236][key]: sp_wc_barcode_field
-_ajax_nonce: 5c713ee482
-meta[267236][value]: 
-meta[267235][key]: sp_wc_barcode_type_field
-_ajax_nonce: 5c713ee482
-meta[267235][value]: none
-meta[266115][key]: total_sales
-_ajax_nonce: 5c713ee482
-meta[266115][value]: 0
-meta[267237][key]: woodmart_total_stock_quantity
-_ajax_nonce: 5c713ee482
-meta[267237][value]: 
+wc_facebook_google_product_category_id:
 metakeyselect: #NONE#
-metakeyinput: 
-metavalue: 
-_ajax_nonce-add-meta: 67189e306f
-post_name: cafetera-prensa-francesa-350ml
-excerpt: Modelo LC 12872
-Tipo Cafeteras
-Capacidad (lt) 350 ml
-Material Vidrio
-add_comment_nonce: 78b5fcc4d5
-_ajax_fetch_list_nonce: 3003f61dd0
-_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
-seopress_cpt_nonce: 3d101ecff0
-_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
-seopress_titles_title: 
-seopress_titles_desc: 
-seopress_robots_canonical: 
-seopress_robots_primary_cat: none
-seopress_robots_breadcrumbs: 
-seopress_social_fb_title: 
-seopress_social_fb_desc: 
-seopress_social_fb_img: 
-seopress_social_twitter_title: 
-seopress_social_twitter_desc: 
-seopress_social_twitter_img: 
+metakeyinput:
+metavalue:
+_ajax_nonce-add-meta: cca5b3e255
+post_name:
+excerpt: <pre> **Material:** Plástico.\n- **Tamaño Aprox.:** 13.5 x 12 x 12 cm.\n- **Peso Aprox.:** 200 g.\n- **Fuente alimentación:** 4 Baterías AAA (No incluidas) / Cable USB (Incluido).\n- **Potencia:** 5W \n\n \n\n- Este es un producto de baja tensión, no debe usar un adaptador de batería externa superior a 5V.\n- No uses la batería y la fuente de alimentación juntos ya que puede afectar el funcionamiento del producto.\n- **Contenido Del Paquete:**\n- 1 Lámpara rot</pre>
+seopress_cpt_nonce: 06dedb51e4
+_wp_http_referer: /wp-admin/post.php?post=15090&action=edit
+seopress_titles_title:
+seopress_titles_desc:
+seopress_robots_canonical:
+seopress_robots_breadcrumbs:
+seopress_social_fb_title:
+seopress_social_fb_desc:
+seopress_social_fb_img:
+seopress_social_twitter_title:
+seopress_social_twitter_desc:
+seopress_social_twitter_img:
 seopress_redirections_type: 301
-seopress_redirections_value: 
+seopress_redirections_value:
 seo_tabs: ["title-tab","social-tab","advanced-tab","redirect-tab"]
-seopress_content_analysis_nonce: 3d101ecff0
-_wp_http_referer: /wp-admin/post.php?post=14743&action=edit&message=1
-seopress_analysis_target_kw: 
-seopress_google_suggest_kw: 
-wd-metabox-nonce_class-metaboxphp: c77b3efc1a
+seopress_content_analysis_nonce: 06dedb51e4
+_wp_http_referer: /wp-admin/post.php?post=15090&action=edit
+seopress_analysis_target_kw:
+seopress_google_suggest_kw:
+wd-metabox-nonce_class-metaboxphp: e4c49d760c
 _woodmart_whb_header: none
 _woodmart_product_design: inherit
 _woodmart_single_product_style: inherit
 _woodmart_thums_position: inherit
-_woodmart_product-background: 
+_woodmart_product-background:
 _woodmart_main_layout: default
 _woodmart_sidebar_width: default
 _woodmart_custom_sidebar: none
-_woodmart_extra_content: 
+_woodmart_extra_content:
 _woodmart_extra_position: after
-_woodmart_product_custom_tab_title: 
-_woodmart_product_custom_tab_content: 
-_woodmart_new_label_date: 
-_woodmart_swatches_attribute: 
-_woodmart_product_video: 
-_woodmart_product_hashtag: 
+_woodmart_product_custom_tab_title:
+_woodmart_product_custom_tab_content:
+_woodmart_new_label_date:
+_woodmart_swatches_attribute:
+_woodmart_product_video:
+_woodmart_product_hashtag:
