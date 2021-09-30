@@ -49,10 +49,10 @@ class SkPublic:
     """
     def PublicProduct(self, data_public):
         titulo = data_public['name']
-        desc_corta = data_public['techReport']
+        desc_corta = data_public['techReport'].replace('**', '')
         sku = data_public['externalId']
         stock = data_public['availableQuantity']
-        desc_larga = data_public['description']
+        desc_larga = data_public['description'].replace('**', '')
         precio = data_public['newBasePrice']
         categoria = var.categorias[data_public['category']['name']]
         tag = data_public['vendor']['businessName']
@@ -66,8 +66,10 @@ class SkPublic:
                 count += 1
                 if count == len(imagenes):
                     break
+        elif len(imagenes) == 1:
+            imagen_principal = imagenes[0]['url']
         else:
-            imagen_principal = imagenes[0]
+            imagen_principal = ''
 
         #print(self.s.cookies)
         r = self.s.get(f'https://{self.domain}/wp-admin/post-new.php?post_type=product')
@@ -92,10 +94,10 @@ class SkPublic:
 
         request_data = {
             '_wpnonce': wpnonce,
-            'user_ID': '2',
+            'user_ID': '3',
             'action': 'editpost',
             'originalaction': 'editpost',
-            'post_author': '2',
+            'post_author': '3',
             'post_type': 'product',
             'original_post_status': 'auto-draft',
             'post_ID': post_id,
@@ -200,11 +202,11 @@ class SkPublic:
                 index += 1
                 request_data[f'knawatfibu_wcgallary[{str(index)}][url]'] = img
 
-        print(request_data)
-
+        print(f'Publicando {titulo}')
+        open('acciones.log', 'a', encoding='UTF-8').writelines(f'Publicando {titulo} {datetime.today()}\n')
         r = self.s.post(f'https://{self.domain}/wp-admin/post.php', data=request_data)
-        print(r.status_code)
-        print(r.url)
+        if r.status_code == 200:
+            print(f'Publicado con exito {r.url}')
 
 
 

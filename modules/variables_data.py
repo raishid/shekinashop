@@ -1,8 +1,13 @@
+import json
 
 domain = 'shekinashop.com'
 
-login = 'fededav'
-pwd = '23615348'
+index_archive = open('index.json', 'r', encoding='UTF-8')
+id = json.loads(index_archive.read())
+index_archive.close()
+
+login = 'Shekina Shop'
+pwd = '#iagFVcqejkd9dugmPg9hXpA'
 
 data_login = {
     'log': login,

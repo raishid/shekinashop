@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "D:/Proyectos/shekinashop/main.py", line 13, in main
+    exit()
+  File "C:\Users\fededavid\AppData\Local\Programs\Python\Python38\lib\_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: None
